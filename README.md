@@ -1,16 +1,28 @@
 # first_flutter_app
 
-A new Flutter project.
+Моя лаба по Flutter.
 
-## Getting Started
+Автор: Каторжин Максим Вячеславович  
+Группа: ИСП-241
 
-This project is a starting point for a Flutter application.
+## Стек
+- Flutter 3.x
+- Dart 3.x
+- Web (Chrome)
+- VS Code
 
-A few resources to get you started if this is your first Flutter project:
+## Скриншот
+![Скриншот](img/step9_Katorzhin.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Запуск
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+3. `flutter pub get`
+4. `flutter run -d chrome`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Что изучил
+- Как создать Flutter-проект
+- Виджеты (Text, Scaffold, Center, Container)
+- Hot Reload и Hot Restart
+- Градиент и стили текста
+- DevTools и Flutter Inspector
